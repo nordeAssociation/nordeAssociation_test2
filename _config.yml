@@ -5,7 +5,7 @@ description: "This is the website of a Network of Rural Development Experts - As
 logo: 120x120.gif # 120x120 px default image used for Twitter summary card
 teaser: 400x250.gif
 locale: en
-url: https://nordeassociation.github.io/
+url: https://nordeassociation.github.io
 feed:
   path: atom.xml
 
